@@ -1,0 +1,23 @@
+   {
+    "name": "Blog de Pelis",
+    "short_name": "Blog de Pelis",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQpXGOAXvfKgpP6LCP_3kD9AmTvddEQD-2pNzPz8mKlzOJlN1dZM4YJBimIGYs5g2RGFTsl4JIgBB23lDK0oeNf5Ko-mKyV1o0j0pb0xrut0kmLdVivFkpzAheTG0YZVFh9lBL0EUEj4Yt0nKyRdB3E2qSVcLd3n4d8WZldQf1EX80g5JiO2Gx3WQptWO/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8FOGUMiXnnGl2JJ7Iypspp5Zuh7qSTnB3ZOFdlZhQRyahjXE68MaeFEXMSJ3rvHBPxBtpUqCOkS9XianTEgbgc0carbA9MIxSPNQt6RwHHmel_y7Y_ZQm_lPo3kwnG2RlXAjLeD-xUfVmIAXp1KEaJ2mRrXWrHkJcJwgmyLpjDNA0hqwRGj7e5sPxpda/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.blogdepelis.info/"
+}
